@@ -11,4 +11,4 @@ Firmware patcher for Xiaomi routers
 ### Mac OS
 
 * Install python 3.9, `brew install libssh2`
-* Run `run.sh`
+* Run `./run.sh`
