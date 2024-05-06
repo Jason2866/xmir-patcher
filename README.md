@@ -8,7 +8,7 @@ Firmware patcher for Xiaomi routers
 
 * Run `run.bat`
 
-### Linux / Mac OS
+### Mac OS
 
-* Install python 3.8, openssl
+* Install python 3.9, `brew install libssh2`
 * Run `run.sh`
